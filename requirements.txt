@@ -1,0 +1,9 @@
+# Apex Strategy Agent dependencies (verified on Python 3.14).
+langgraph==1.2.2
+anthropic==0.105.2
+pydantic==2.13.4
+tenacity==9.1.4
+
+# Interactive web UI (webapp.py + web/index.html)
+fastapi==0.136.3
+uvicorn[standard]==0.48.0
